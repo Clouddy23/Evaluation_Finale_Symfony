@@ -36,7 +36,6 @@ git push -u origin main
 - Bundle EasyAdmin : ``composer require easycorp/easyadmin-bundle``
 - Twig component : ``composer require symfony/ux-twig-component``
 - Page accueil Home : ``php bin/console make:controller HomeController``
-- Activation SQLite fichier ``.env``
 - Création BDD ``php bin/console doctrine:database:create``
 
 ## Lancement
