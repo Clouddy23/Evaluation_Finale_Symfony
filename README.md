@@ -40,8 +40,8 @@ git push -u origin main
 - Création BDD ``php bin/console doctrine:database:create``
 
 ## Lancement
-``symfony server:start``
-Se rendre sur ``http://localhost:8000/``
+- ``symfony server:start``
+- Se rendre sur ``http://localhost:8000/``
 
 ## Rendu
 Rendre public le repository puis déposer le lien du repository sur l'espace de dépôt.
