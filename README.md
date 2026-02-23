@@ -25,12 +25,12 @@ git push -u origin main
 
 # INSTRUCTIONS EXAMEN
 ## Repository 
-Forkage du repository donné.
-Clonage du dépôt sur l'IDE VS Code.
+- Forkage du repository donné.
+- Clonage du dépôt sur l'IDE VS Code.
 
 ## Dossier projet 
-Se rendre dans ``cd evaluation-finale-symfony-mathilde-chauvet``
-Installation des dépendances ``composer install``
+- Se rendre dans ``cd evaluation-finale-symfony-mathilde-chauvet``
+- Installation des dépendances ``composer install``
 
 ## Installation annexes
 - Bundle EasyAdmin : ``composer require easycorp/easyadmin-bundle``
