@@ -33,15 +33,15 @@ Se rendre dans ``cd evaluation-finale-symfony-mathilde-chauvet``
 Installation des dépendances ``composer install``
 
 ## Installation annexes
-Bundle EasyAdmin : ``composer require easycorp/easyadmin-bundle``
-Twig component : ``composer require symfony/ux-twig-component``
-Page accueil Home : ``php bin/console make:controller HomeController``
-Activation SQLite fichier ``.env``
-Création BDD ``php bin/console doctrine:database:create``
+- Bundle EasyAdmin : ``composer require easycorp/easyadmin-bundle``
+- Twig component : ``composer require symfony/ux-twig-component``
+- Page accueil Home : ``php bin/console make:controller HomeController``
+- Activation SQLite fichier ``.env``
+- Création BDD ``php bin/console doctrine:database:create``
 
 ## Lancement
 ``symfony server:start``
-``http://localhost:8000/``
+Se rendre sur ``http://localhost:8000/``
 
 ## Rendu
 Rendre public le repository puis déposer le lien du repository sur l'espace de dépôt.
