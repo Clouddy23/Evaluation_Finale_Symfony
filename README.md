@@ -31,10 +31,11 @@ Clonage du dépôt sur l'IDE VS Code.
 ## Dossier projet 
 Se rendre dans ``cd evaluation-finale-symfony-mathilde-chauvet``
 Installation des dépendances ``composer install``
-Configuration de la BDD dans le fichier .env.local 
-Création de la BDD ``php bin/console doctrine:database:create``
 
-## Fin de développement 
+## Installation EasyAdmin
+``composer require easycorp/easyadmin-bundle``
+
+## Rendu
 Rendre public le repository puis déposer le lien du repository sur l'espace de dépôt.
 
 
