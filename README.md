@@ -36,6 +36,12 @@ git push -u origin main
 - Bundle EasyAdmin : ``composer require easycorp/easyadmin-bundle``
 - Twig component : ``composer require symfony/ux-twig-component``
 - Page accueil Home : ``php bin/console make:controller HomeController``
+
+## BDD
+- ``cp .env .env.local``
+- Fichier .env.local ``DATABASE_URL="mysql://root:TON_MDP@127.0.0.1:3306/evaluation_symfony?serverVersion=8.4.7&charset=utf8mb4"``
+- 
+
 - Création BDD ``php bin/console doctrine:database:create``
 
 ## Lancement
